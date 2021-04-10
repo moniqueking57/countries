@@ -1,7 +1,4 @@
-// 20210331182118
-// https://raw.githubusercontent.com/CodeYourFuture/cyf-react-challenges/master/challenge-countries/countriesAll.json
-
-[
+const countriesAll = [
   {
     name: "Afghanistan",
     topLevelDomain: [".af"],
@@ -15874,3 +15871,5 @@
     cioc: "ZIM",
   },
 ];
+
+export default countriesAll;
